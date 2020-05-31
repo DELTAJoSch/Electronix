@@ -18,3 +18,23 @@ H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.RestfulApi\obj\De
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.dll
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.pdb
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.genruntimeconfig.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\Electronix.RestfulApi.exe
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\Electronix.RestfulApi.deps.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\Electronix.RestfulApi.runtimeconfig.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\Electronix.RestfulApi.runtimeconfig.dev.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\Electronix.RestfulApi.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\bin\Debug\netcoreapp3.1\Electronix.RestfulApi.pdb
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.csprojAssemblyReference.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.AssemblyInfoInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.AssemblyInfo.cs
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.csproj.CoreCompileInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.MvcApplicationPartsAssemblyInfo.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.RazorTargetAssemblyInfo.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\staticwebassets\Electronix.RestfulApi.StaticWebAssets.Manifest.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\staticwebassets\Electronix.RestfulApi.StaticWebAssets.xml
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.pdb
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.RestfulApi\obj\Debug\netcoreapp3.1\Electronix.RestfulApi.genruntimeconfig.cache

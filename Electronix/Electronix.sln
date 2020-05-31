@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electonix.SharedLogic", "El
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electronix.SharedLogic.UnitTests", "Electronix.SharedLogic.UnitTests\Electronix.SharedLogic.UnitTests.csproj", "{B99A9D20-8013-4014-B2B8-E50F2E3B0EBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronix.WPF", "Electronix.WPF\Electronix.WPF.csproj", "{C6346CDC-9443-4789-9B1A-145549A2E2ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electronix.WPF", "Electronix.WPF\Electronix.WPF.csproj", "{C6346CDC-9443-4789-9B1A-145549A2E2ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronix.RestfulApi", "Electronix.RestfulApi\Electronix.RestfulApi.csproj", "{75391558-869F-427C-8A4A-96A2B49613F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electronix.RestfulApi", "Electronix.RestfulApi\Electronix.RestfulApi.csproj", "{75391558-869F-427C-8A4A-96A2B49613F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronix.SharedLogic.IntegrationTests", "Electronix.SharedLogic.IntegrationTests\Electronix.SharedLogic.IntegrationTests.csproj", "{7852A4F2-F088-4C52-A080-CE90AA2DB605}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{75391558-869F-427C-8A4A-96A2B49613F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75391558-869F-427C-8A4A-96A2B49613F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75391558-869F-427C-8A4A-96A2B49613F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7852A4F2-F088-4C52-A080-CE90AA2DB605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7852A4F2-F088-4C52-A080-CE90AA2DB605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7852A4F2-F088-4C52-A080-CE90AA2DB605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7852A4F2-F088-4C52-A080-CE90AA2DB605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

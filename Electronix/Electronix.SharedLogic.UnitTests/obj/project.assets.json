@@ -5757,11 +5757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.SharedLogic.UnitTests\\Electronix.SharedLogic.UnitTests.csproj",
+      "projectUniqueName": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.SharedLogic.UnitTests\\Electronix.SharedLogic.UnitTests.csproj",
       "projectName": "Electronix.SharedLogic.UnitTests",
-      "projectPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.SharedLogic.UnitTests\\Electronix.SharedLogic.UnitTests.csproj",
+      "projectPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.SharedLogic.UnitTests\\Electronix.SharedLogic.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Deltazocker\\.nuget\\packages\\",
-      "outputPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.SharedLogic.UnitTests\\obj\\",
+      "outputPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.SharedLogic.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5782,8 +5782,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj": {
-              "projectPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj"
+            "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj": {
+              "projectPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj"
             }
           }
         }

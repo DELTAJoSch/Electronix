@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.WPF\\Electronix.WPF.csproj",
+      "projectUniqueName": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.WPF\\Electronix.WPF.csproj",
       "projectName": "Electronix.WPF",
-      "projectPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.WPF\\Electronix.WPF.csproj",
+      "projectPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.WPF\\Electronix.WPF.csproj",
       "packagesPath": "C:\\Users\\Deltazocker\\.nuget\\packages\\",
-      "outputPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.WPF\\obj\\",
+      "outputPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

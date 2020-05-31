@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fT3Dk4DzlJWipEu25Bj3k68Nodasd4/wbpytxAqwZXyj+JxqRi1MRXVQQxrgDvt9RYOcjy9LayWzIixswyolmQ==",
+  "dgSpecHash": "f8jujojOX+Crw8waIGHkc2mCghl8Ym3t7aTv/PMcyo6LwdIy/r/XSn2MEnReWAFIbZ2JTxbCrxBy6efp6Bh8WQ==",
   "success": true,
-  "projectFilePath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.SharedLogic.UnitTests\\Electronix.SharedLogic.UnitTests.csproj",
+  "projectFilePath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.SharedLogic.UnitTests\\Electronix.SharedLogic.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deltazocker\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Deltazocker\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

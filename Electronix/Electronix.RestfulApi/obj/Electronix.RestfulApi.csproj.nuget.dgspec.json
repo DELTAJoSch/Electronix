@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj": {}
+    "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj": {}
   },
   "projects": {
-    "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj": {
+    "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj",
+        "projectUniqueName": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj",
         "projectName": "Electronix.RestfulApi",
-        "projectPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj",
+        "projectPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj",
         "packagesPath": "C:\\Users\\Deltazocker\\.nuget\\packages\\",
-        "outputPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.RestfulApi\\obj\\",
+        "outputPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.RestfulApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1176,11 +1176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj",
+      "projectUniqueName": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj",
       "projectName": "Electonix.SharedLogic",
-      "projectPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj",
+      "projectPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electonix.SharedLogic\\Electonix.SharedLogic.csproj",
       "packagesPath": "C:\\Users\\Deltazocker\\.nuget\\packages\\",
-      "outputPath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electonix.SharedLogic\\obj\\",
+      "outputPath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electonix.SharedLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zERWfb5u2GX8hxceRVS9VTo4VlW2ETU09Awsw54sXFJmET7gz/qXoRxQxu0VETm7xHTkGEd8lx69ErXKtbE1+A==",
+  "dgSpecHash": "Yl9+SNVCdUCaiKN4ySaLIpOhkue4zkUpSQ52eFZwl2R0VJ0Athup4oI9x0YA+efvpjyKFYv2t3Jrtqf+xDOIHQ==",
   "success": true,
-  "projectFilePath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.WPF\\Electronix.WPF.csproj",
+  "projectFilePath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.WPF\\Electronix.WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deltazocker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

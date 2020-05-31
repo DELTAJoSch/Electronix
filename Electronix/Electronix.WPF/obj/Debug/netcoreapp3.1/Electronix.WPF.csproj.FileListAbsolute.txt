@@ -17,3 +17,22 @@ H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.WPF\obj\Debug\net
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.dll
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.pdb
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.genruntimeconfig.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\Electronix.WPF.exe
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\Electronix.WPF.deps.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\Electronix.WPF.runtimeconfig.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\Electronix.WPF.runtimeconfig.dev.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\Electronix.WPF.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\Electronix.WPF.pdb
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.csprojAssemblyReference.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\App.g.cs
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF_MarkupCompile.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF_MarkupCompile.lref
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.g.resources
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.AssemblyInfoInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.AssemblyInfo.cs
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.csproj.CoreCompileInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.pdb
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.genruntimeconfig.cache
