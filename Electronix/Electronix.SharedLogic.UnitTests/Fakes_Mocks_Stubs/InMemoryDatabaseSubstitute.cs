@@ -9,7 +9,7 @@ namespace Electronix.SharedLogic.UnitTests.Fakes_Mocks_Stubs
 {
     internal class InMemoryDatabaseSubstitute : ISqliteStorageModel, IDisposable
     {
-        private SqliteConnection inMemDataBase;
+        private readonly SqliteConnection inMemDataBase;
 
         public InMemoryDatabaseSubstitute()
         {

@@ -1,11 +1,23 @@
 ﻿using Electonix.SharedLogic.Models;
 using System;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Electonix.SharedLogic.Interfaces
 {
+    public enum DataOptions
+    {
+        ComponentName,
+        ComponentAmount,
+        ComponentRack,
+        ComponentDrawer,
+        ComponentNotes,
+        ComponentMinimumOrderWarning,
+        ComponentUID
+    }
+
     /// <summary>
     /// This interface specifies the standard model used to interact with a database and its safed contents.
     /// </summary>
@@ -44,5 +56,49 @@ namespace Electonix.SharedLogic.Interfaces
         /// </summary>
         /// <returns>A dictionary of all components and their uids</returns>
         public Task<Dictionary<string, HardwareComponent>> GetHardwareComponents();
+
+        /// <summary>
+        /// This method updates all the components passed
+        /// </summary>
+        /// <param name="components">The components to be updated</param>
+        /// <returns></returns>
+        public Task UpdateComponents(List<HardwareComponent> components);
+
+        /// <summary>
+        /// This method returns a dictionary with HardwareComponents that match the search
+        /// </summary>
+        /// <param name="SearchText">The search text</param>
+        /// <param name="Options">the parameter that it will be searched against</param>
+        /// <returns></returns>
+        public Task<Dictionary<string, HardwareComponent>> SearchFor(string SearchText, DataOptions Options = DataOptions.ComponentName);
+
+        /// <summary>
+        /// This method sorts the hardware components
+        /// </summary>
+        /// <param name="Options"></param>
+        /// <returns></returns>
+        public Task<Dictionary<string, HardwareComponent>> SortBy(DataOptions Options = DataOptions.ComponentName);
+
+        /// <summary>
+        /// This method returns a new uid.
+        /// This method has a standard implementation.
+        /// </summary>
+        /// <returns></returns>
+        async Task<String> CreateUID()
+        {
+            using SHA1Managed sha1 = new SHA1Managed();
+
+            var now = DateTime.Now;
+
+            var hash = sha1.ComputeHash(Encoding.UTF8.GetBytes($"{now.Year}{now.Millisecond}{now.Second}{now.DayOfYear}{now.Minute}{now.Hour}"));
+            var sb = new StringBuilder(hash.Length * 2);
+
+            foreach (byte b in hash)
+            {
+                sb.Append(b.ToString("X2"));
+            }
+
+            return sb.ToString();
+        }
     }
 }

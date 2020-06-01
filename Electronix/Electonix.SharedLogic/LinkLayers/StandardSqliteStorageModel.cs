@@ -136,6 +136,9 @@ namespace Electonix.SharedLogic.LinkLayers
             await command.ExecuteNonQueryAsync();
         }
 
+        /// <summary>
+        /// Disposes of the StandardSqliteStorageModel
+        /// </summary>
         public void Dispose()
         {
             dbConnection.Close();
