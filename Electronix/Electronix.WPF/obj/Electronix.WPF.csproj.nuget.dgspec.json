@@ -42,6 +42,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "EasyStyle": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Easy_MVVM": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

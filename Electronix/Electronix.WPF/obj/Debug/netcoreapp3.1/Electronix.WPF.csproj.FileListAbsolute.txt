@@ -32,7 +32,6 @@ H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreap
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.g.resources
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.AssemblyInfoInputs.cache
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.AssemblyInfo.cs
-H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.csproj.CoreCompileInputs.cache
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.dll
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.pdb
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.genruntimeconfig.cache

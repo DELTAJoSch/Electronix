@@ -1,11 +1,63 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "EasyStyle/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/EasyStyle.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/EasyStyle.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Easy_MVVM/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/EasyMVVM.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/EasyMVVM.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EasyStyle/1.0.0": {
+      "sha512": "hZU372wiM9bb1S4HNvMf29MYIK/RLJi7JB72vEW3PzSB7lbhDHKxELjuKUTu4tT//L1KT07vdtnwiuEAWHwGVA==",
+      "type": "package",
+      "path": "easystyle/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "easystyle.1.0.0.nupkg.sha512",
+        "easystyle.nuspec",
+        "lib/netcoreapp3.1/EasyStyle.dll",
+        "license.txt"
+      ]
+    },
+    "Easy_MVVM/1.0.0": {
+      "sha512": "IKArFPUCTNu0xHAAwHpJGrq4NlbD4T4ob0V8jCKRmGOMHgTpsX0ocJ5aPry/1oBGqQMlbcGCyas8HWsBq3HL1w==",
+      "type": "package",
+      "path": "easy_mvvm/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "easy_mvvm.1.0.0.nupkg.sha512",
+        "easy_mvvm.nuspec",
+        "lib/netcoreapp3.1/EasyMVVM.dll",
+        "license.txt"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "EasyStyle >= 1.0.0",
+      "Easy_MVVM >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Deltazocker\\.nuget\\packages\\": {},
@@ -50,6 +102,16 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "EasyStyle": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "Easy_MVVM": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
