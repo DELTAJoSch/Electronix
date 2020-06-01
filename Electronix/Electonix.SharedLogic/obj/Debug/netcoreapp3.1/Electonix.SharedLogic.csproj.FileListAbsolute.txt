@@ -7,3 +7,12 @@ H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electonix.SharedLogic\bin\De
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.dll
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.pdb
 H:\Dokumente\Visual Studio 2019\Projects\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.csproj.CoreCompileInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.csprojAssemblyReference.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.AssemblyInfoInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.AssemblyInfo.cs
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.csproj.CoreCompileInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\obj\Debug\netcoreapp3.1\Electonix.SharedLogic.pdb
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\bin\Debug\netcoreapp3.1\Electonix.SharedLogic.deps.json
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\bin\Debug\netcoreapp3.1\Electonix.SharedLogic.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electonix.SharedLogic\bin\Debug\netcoreapp3.1\Electonix.SharedLogic.pdb

@@ -7,7 +7,7 @@ namespace Electonix.SharedLogic.Interfaces
     /// <summary>
     /// This interface defines the standard sqlite link layer functions.
     /// </summary>
-    public interface ISqliteStorageModel
+    internal interface ISqliteStorageModel
     {
         /// <summary>
         /// This function should return the values of a specific hardware component.

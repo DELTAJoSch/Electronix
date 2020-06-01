@@ -9,7 +9,7 @@ namespace Electronix.SharedLogic.UnitTests.Fakes_Mocks_Stubs
 {
     internal class InMemoryDatabaseSubstitute : ISqliteStorageModel, IDisposable
     {
-        private SqliteConnection inMemDataBase;
+        private readonly SqliteConnection inMemDataBase;
 
         public InMemoryDatabaseSubstitute()
         {
@@ -131,7 +131,19 @@ namespace Electronix.SharedLogic.UnitTests.Fakes_Mocks_Stubs
 
         public async Task UpdateHardwareComponent(HardwareComponent component)
         {
-            throw new NotImplementedException();
+            var command = inMemDataBase.CreateCommand();
+            command.CommandText =
+            $@"UPDATE components
+               SET ComponentName = '{component.componentName}',
+                   ComponentRack = {component.componentRack},
+                   ComponentDrawer = {component.componentDrawer},
+                   ComponentAmount = {component.componentAmount},
+                   ComponentNotes = '{component.componentNotes}',
+                   ComponentOrderWarningMinimum = {component.componentOrderWarning}
+               WHERE ComponentUID = '{component.componentUid}';
+            ";
+
+            await command.ExecuteNonQueryAsync();
         }
     }
 }

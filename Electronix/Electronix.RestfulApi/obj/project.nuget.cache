@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hWTmFg8JrxL1ykmweXHNGkZ9WCwx4CJC2odRWgJ3JCUlDHrWkXUHeBNm3n+qoogDl3sPQJBXXcFh/P37sqO8eA==",
+  "dgSpecHash": "XzJ+iZ6/dgdWMUvvPBG7a72rooN14dt7NeOlZAGuKiU4zIJlw7rPTlIkLK30Prtu906b+ZiyiE48/qcdkhCWxQ==",
   "success": true,
-  "projectFilePath": "H:\\Dokumente\\Visual Studio 2019\\Projects\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj",
+  "projectFilePath": "H:\\Dokumente\\Electronix\\Electronix\\Electronix\\Electronix.RestfulApi\\Electronix.RestfulApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deltazocker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

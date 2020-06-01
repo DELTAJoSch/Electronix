@@ -93,6 +93,19 @@ namespace Electronix.SharedLogic.UnitTests.Fakes_Mocks_Stubs.UnitTests
             Assert.IsNull(deletedValue);
         }
 
+        [Test]
+        public async Task InMemoryDataBase_Update_UpdatesCorrectComponent()
+        {
+            InMemoryDatabaseSubstitute substitute = CreateSubstitute();
+            HardwareComponent component = new HardwareComponent("#2", 50, 10, 200, "Core i9-9900K", "An overpriced processor", 1);
+
+            await substitute.UpdateHardwareComponent(component);
+
+            var getResultComponent = await substitute.GetHardwareComponent("#2");
+
+            Assert.AreEqual(component.componentName, getResultComponent.componentName);
+        }
+
         private InMemoryDatabaseSubstitute CreateSubstitute()
         {
             return new InMemoryDatabaseSubstitute();
