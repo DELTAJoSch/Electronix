@@ -35,3 +35,7 @@ H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreap
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.dll
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.pdb
 H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.genruntimeconfig.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\EasyStyle.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\bin\Debug\netcoreapp3.1\EasyMVVM.dll
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.csproj.CoreCompileInputs.cache
+H:\Dokumente\Electronix\Electronix\Electronix\Electronix.WPF\obj\Debug\netcoreapp3.1\Electronix.WPF.csproj.CopyComplete

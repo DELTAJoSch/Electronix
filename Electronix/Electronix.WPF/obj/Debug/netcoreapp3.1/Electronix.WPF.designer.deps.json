@@ -6,15 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Electronix.WPF/1.0.0": {
-        "dependencies": {
-          "EasyStyle": "1.0.0",
-          "Easy_MVVM": "1.0.0"
-        },
-        "runtime": {
-          "Electronix.WPF.dll": {}
-        }
-      },
       "EasyStyle/1.0.0": {
         "runtime": {
           "lib/netcoreapp3.1/EasyStyle.dll": {
@@ -34,11 +25,6 @@
     }
   },
   "libraries": {
-    "Electronix.WPF/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "EasyStyle/1.0.0": {
       "type": "package",
       "serviceable": true,

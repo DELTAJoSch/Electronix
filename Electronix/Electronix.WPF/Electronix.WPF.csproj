@@ -6,4 +6,9 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EasyStyle" Version="1.0.0" />
+    <PackageReference Include="Easy_MVVM" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

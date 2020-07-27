@@ -70,14 +70,14 @@ namespace Electonix.SharedLogic.Interfaces
         /// <param name="SearchText">The search text</param>
         /// <param name="Options">the parameter that it will be searched against</param>
         /// <returns></returns>
-        public Task<Dictionary<string, HardwareComponent>> SearchFor(string SearchText, DataOptions Options = DataOptions.ComponentName);
+        public Task<IEnumerable<KeyValuePair<string, HardwareComponent>>> SearchFor(string SearchText, DataOptions Options = DataOptions.ComponentName);
 
         /// <summary>
         /// This method sorts the hardware components
         /// </summary>
         /// <param name="Options"></param>
         /// <returns></returns>
-        public Task<Dictionary<string, HardwareComponent>> SortBy(DataOptions Options = DataOptions.ComponentName);
+        public Task<IEnumerable<KeyValuePair<string, HardwareComponent>>> SortBy(DataOptions Options = DataOptions.ComponentName);
 
         /// <summary>
         /// This method returns a new uid.
